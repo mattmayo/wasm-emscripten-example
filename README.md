@@ -1,6 +1,7 @@
 # Web Assembly with Emscripten
-Here lies an example of how to create a wasm (web assembly) module by compiling C code vi emscripten. It is based on the following set of tutorials from Mozilla, who is a major sponsor of wasm.
-https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm
+Here lies an example of how to create a wasm (web assembly) module by compiling C code using emscripten. It is based on the following set of tutorials from Mozilla, who is a major sponsor of wasm.
+- https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm
+- https://emscripten.org/index.html
 
 ## How to execute
 1. Clone this repo
